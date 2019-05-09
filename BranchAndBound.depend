@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1557413673 source:c:\users\v206681\desktop\branchandbound\functions.c
+	"functions.h"
+
+1557413521 source:c:\users\v206681\desktop\branchandbound\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1557413481 c:\users\v206681\desktop\branchandbound\functions.h
+
+1557422932 source:c:\users\v206681\downloads\branchandbound\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1557422455 c:\users\v206681\downloads\branchandbound\functions.h
+
+1557422978 source:c:\users\v206681\downloads\branchandbound\functions.c
+	"functions.h"
+
